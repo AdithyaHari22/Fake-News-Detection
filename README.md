@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+# Fake News Classifier
 A Fake News detection system using BERT and Data Augmentation on the Fakeddit dataset
 =======
 
