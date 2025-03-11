@@ -1,8 +1,6 @@
 <<<<<<< HEAD
-# Fake-News-Classifier
 A Fake News detection system using BERT and Data Augmentation on the Fakeddit dataset
 =======
-# Fake News Detection Using BERT and Data Augmentation
 
 ## Overview
 This project develops a robust fake news detection system by fine-tuning a pre-trained BERT model and applying data augmentation via synonym replacement. The approach improves model generalization and achieves a test accuracy of **81.00%**. The project uses the Fakeddit dataset (preprocessed) and leverages libraries such as PyTorch, Hugging Face Transformers, and NLTK.
