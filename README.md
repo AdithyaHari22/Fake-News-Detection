@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# Fake News Classifier
 A Fake News detection system using BERT and Data Augmentation on the Fakeddit dataset
 =======
 
@@ -43,6 +41,3 @@ Adithya Hari - Implemented Data Augmentation, fine tuned the BERT Model and deve
  - Thanks to the Hugging Face Transformers library for providing pre-trained BERT model
  - NLTK for enabling the synonym replacement data augmentation.
  - Thanks to the providers of the Fakeddit dataset Nakamura, Kai and Levy, Sharon and Wang, William Yang. [Fakeddit: A New Multimodal Benchmark Dataset for Fine-grained Fake News Detection](https://arxiv.org/abs/1911.03854).
-
-
->>>>>>> 717f0e2 (Initial commit with project structure and files)
